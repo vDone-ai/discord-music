@@ -18,7 +18,7 @@ GOOGLE_API=
 
 ## Features
 
-* Play a song by its name
+* Play a song by its names
 * Queue system
 * Volume control
 * Pause/Resume
